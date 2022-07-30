@@ -15,7 +15,7 @@ Project was created with:
 
 ## Functionalities
 In project You are able to:
-* fight between two players using Q for attack and A for heal as player 1 and P for attack and L for heal as player 2,
+* fight between two players using Q for attack and A for heal as player 1 and P for attack and L for heal as player 2 (**only on desktop version!**),
 * see Your health points,
 * reset the fight,
 * simulate the fight.
